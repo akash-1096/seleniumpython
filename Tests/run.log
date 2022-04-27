@@ -1,0 +1,186 @@
+BaseTest: 26/04/22 08:31:33 PM  : INFO : Website Launched Successfully
+BaseTest: 26/04/22 08:32:59 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:33:01 PM  : INFO : Login Attempted
+BaseTest: 26/04/22 08:34:53 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:34:55 PM  : INFO : Login Attempted
+BaseTest: 26/04/22 08:36:37 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:36:38 PM  : INFO : Login Attempted
+BaseTest: 26/04/22 08:38:04 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:38:05 PM  : INFO : Login Attempted
+BaseTest: 26/04/22 08:39:59 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:40:00 PM  : INFO : Login Attempted
+BaseTest: 26/04/22 08:50:12 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:50:13 PM  : INFO : Login Attempted
+TestSignInPage: 26/04/22 08:50:27 PM  : ERROR : Login Successful
+BaseTest: 26/04/22 08:56:30 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 08:56:32 PM  : INFO : Login Attempted
+TestSignInPage: 26/04/22 08:56:45 PM  : ERROR : Login Successful
+BaseTest: 26/04/22 09:01:41 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 09:01:43 PM  : INFO : Login Attempted
+TestSignInPage: 26/04/22 09:01:56 PM  : ERROR : Login Successful
+BaseTest: 26/04/22 09:14:15 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 09:14:16 PM  : INFO : Login Attempted
+TestSignInPage: 26/04/22 09:14:30 PM  : ERROR : Login Successful
+TestCart: 26/04/22 09:14:33 PM  : INFO : Items added in the cart are verified
+BaseTest: 26/04/22 09:16:28 PM  : INFO : Website Launched Successfully
+TestSignInPage: 26/04/22 09:16:29 PM  : INFO : Login Attempted
+TestSignInPage: 26/04/22 09:16:40 PM  : ERROR : Login Successful
+BaseTest: 27/04/22 09:14:42 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 09:14:44 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 09:14:54 AM  : ERROR : Login Successful
+TestCart: 27/04/22 09:15:01 AM  : INFO : Items added in the cart are verified
+BaseTest: 27/04/22 09:21:13 AM  : INFO : Website Launched Successfully
+CommFun: 27/04/22 09:21:13 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:13 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:13 AM  : INFO : Element is not present in the page
+TestSignInPage: 27/04/22 09:21:14 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 09:21:24 AM  : ERROR : Login Successful
+SS: 27/04/22 09:21:25 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 09:21:25 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:25 AM  : INFO : Element is not present in the page
+SS: 27/04/22 09:21:26 AM  : INFO : GroceryStore.png Screenshot captured
+CommFun: 27/04/22 09:21:26 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:27 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:27 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:29 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:29 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:30 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:21:30 AM  : INFO : Element is not present in the page
+TestCart: 27/04/22 09:21:30 AM  : INFO : Items added in the cart are verified
+BaseTest: 27/04/22 09:45:51 AM  : INFO : Website Launched Successfully
+CommFun: 27/04/22 09:45:51 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:45:51 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:45:52 AM  : INFO : Element is not present in the page
+TestSignInPage: 27/04/22 09:45:52 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 09:46:02 AM  : ERROR : Login Successful
+SS: 27/04/22 09:46:03 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 09:46:03 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:03 AM  : INFO : Element is not present in the page
+SS: 27/04/22 09:46:04 AM  : INFO : GroceryStore.png Screenshot captured
+CommFun: 27/04/22 09:46:04 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:05 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:05 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:08 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:09 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:09 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:46:09 AM  : INFO : Element is not present in the page
+TestCart: 27/04/22 09:46:10 AM  : INFO : Items added in the cart are verified
+BaseTest: 27/04/22 09:54:29 AM  : INFO : Website Launched Successfully
+CommFun: 27/04/22 09:54:29 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:30 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:30 AM  : INFO : Element is not present in the page
+TestSignInPage: 27/04/22 09:54:31 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 09:54:41 AM  : INFO : Login Successful
+SS: 27/04/22 09:54:42 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 09:54:42 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:42 AM  : INFO : Element is not present in the page
+SS: 27/04/22 09:54:43 AM  : INFO : GroceryStore.png Screenshot captured
+CommFun: 27/04/22 09:54:43 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:43 AM  : INFO : Value are not entered
+CommFun: 27/04/22 09:54:45 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:46 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:46 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:46 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:46 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:54:46 AM  : INFO : Element is not present in the page
+TestCart: 27/04/22 09:54:49 AM  : INFO : Items added in the cart are verified
+BaseTest: 27/04/22 09:56:12 AM  : INFO : Website Launched Successfully
+CommFun: 27/04/22 09:56:12 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:13 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:14 AM  : INFO : Element is not present in the page
+TestSignInPage: 27/04/22 09:56:14 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 09:56:24 AM  : INFO : Login Successful
+SS: 27/04/22 09:56:25 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 09:56:25 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:25 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:25 AM  : INFO : Element is not clicked
+SS: 27/04/22 09:56:26 AM  : INFO : GroceryStore.png Screenshot captured
+CommFun: 27/04/22 09:56:26 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:27 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:27 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:27 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:27 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:28 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 09:56:28 AM  : INFO : Element is not present in the page
+TestCart: 27/04/22 09:56:29 AM  : INFO : Items added in the cart are verified
+BaseTest: 27/04/22 10:07:25 AM  : INFO : Website Launched Successfully
+CommFun: 27/04/22 10:07:25 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:25 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:25 AM  : INFO : Element is not present in the page
+TestSignInPage: 27/04/22 10:07:25 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 10:07:36 AM  : INFO : Login Successful
+SS: 27/04/22 10:07:37 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 10:07:37 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:37 AM  : INFO : Element is not present in the page
+SS: 27/04/22 10:07:37 AM  : INFO : GroceryStore.png Screenshot captured
+CommFun: 27/04/22 10:07:37 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:38 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:38 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:40 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:40 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:41 AM  : INFO : Element is not present in the page
+CommFun: 27/04/22 10:07:41 AM  : INFO : Element is not present in the page
+TestCart: 27/04/22 10:07:42 AM  : INFO : Items added in the cart are verified
+BaseTest: 27/04/22 10:28:24 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 10:28:25 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 10:28:35 AM  : INFO : Login Successful
+SS: 27/04/22 10:28:36 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 10:28:36 AM  : INFO : Element is not clicked
+SS: 27/04/22 10:28:36 AM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 11:35:27 AM  : INFO : Website Launched Successfully
+BaseTest: 27/04/22 11:45:54 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 11:45:55 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 11:46:05 AM  : INFO : Login Successful
+SS: 27/04/22 11:46:06 AM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 11:46:07 AM  : INFO : GroceryStore.png Screenshot captured
+TestCart: 27/04/22 11:46:12 AM  : INFO : Items added in the cart are verified
+CommFun: 27/04/22 11:46:13 AM  : INFO : Value are not entered
+BaseTest: 27/04/22 11:48:48 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 11:48:49 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 11:49:00 AM  : INFO : Login Successful
+SS: 27/04/22 11:49:00 AM  : INFO : HomePage.png Screenshot captured
+CommFun: 27/04/22 11:49:01 AM  : INFO : Element is not clicked
+CommFun: 27/04/22 11:49:02 AM  : INFO : Element is not clicked
+SS: 27/04/22 11:49:03 AM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 11:49:44 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 11:49:45 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 11:49:55 AM  : INFO : Login Successful
+SS: 27/04/22 11:49:56 AM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 11:49:57 AM  : INFO : GroceryStore.png Screenshot captured
+TestCart: 27/04/22 11:50:01 AM  : INFO : Items added in the cart are verified
+Test_filter: 27/04/22 11:50:02 AM  : INFO : Besan Item Searched
+Test_filter: 27/04/22 11:50:03 AM  : INFO : Filter Applied
+BaseTest: 27/04/22 11:55:16 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 11:55:18 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 11:55:28 AM  : INFO : Login Successful
+SS: 27/04/22 11:55:29 AM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 11:55:30 AM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 11:56:22 AM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 11:56:23 AM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 11:56:34 AM  : INFO : Login Successful
+SS: 27/04/22 11:56:34 AM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 11:56:35 AM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 12:02:18 PM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 12:02:19 PM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 12:02:30 PM  : INFO : Login Successful
+SS: 27/04/22 12:02:30 PM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 12:02:31 PM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 12:04:11 PM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 12:04:12 PM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 12:04:22 PM  : INFO : Login Successful
+SS: 27/04/22 12:04:23 PM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 12:04:24 PM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 12:09:41 PM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 12:09:42 PM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 12:09:53 PM  : INFO : Login Successful
+SS: 27/04/22 12:09:53 PM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 12:09:54 PM  : INFO : GroceryStore.png Screenshot captured
+BaseTest: 27/04/22 12:15:20 PM  : INFO : Website Launched Successfully
+TestSignInPage: 27/04/22 12:15:21 PM  : INFO : Login Attempted
+TestSignInPage: 27/04/22 12:15:31 PM  : INFO : Login Successful
+SS: 27/04/22 12:15:32 PM  : INFO : HomePage.png Screenshot captured
+SS: 27/04/22 12:15:33 PM  : INFO : GroceryStore.png Screenshot captured
+CommFun: 27/04/22 12:15:36 PM  : INFO : Element is not clicked
+TestCart: 27/04/22 12:15:37 PM  : INFO : Items added in the cart are verified
+Test_filter: 27/04/22 12:15:38 PM  : INFO : Besan Item Searched
+Test_filter: 27/04/22 12:15:39 PM  : INFO : Filter Applied
